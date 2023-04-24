@@ -74,10 +74,8 @@ Now we will set up remote desktop for non-administrative users on Client-1. We h
 </p>
 Finally, to verify that noraml users can RDP into Client-1, I will use a Powershell script to generate 10,000 (Thousands) of users into the domain. After the users are created we will randomly select one and RDP into Client-1.
 </p>
-<img src="https://i.imgur.com/zfIo8Et.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/QBffW1K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<img src="https://i.imgur.com/HhKnOwt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/Utf0x7S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
