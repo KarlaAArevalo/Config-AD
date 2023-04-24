@@ -80,7 +80,6 @@ Finally, to verify that noraml users can RDP into Client-1, I will use a Powersh
 <img src="https://i.imgur.com/HhKnOwt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/Utf0x7S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<img src="https://i.imgur.com/baBi2Ug.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h3>Bonus Step: How to unlock users' accounts and reset passwords</h3>
 In order to unlock a user's account, right click the user account and click "Properties." 
